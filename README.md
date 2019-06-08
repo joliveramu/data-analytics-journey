@@ -1,0 +1,2 @@
+# data-analytics-journey
+This repository contains my journey on how I have learned python, R, and SQL for Data Analytics (somewhat will reach in Data Science as I will push myself to the limit to reach it). Thanks to my friends who believed that I can do it. Also, to the tutorials and to the online learning that I have enrolled, you taught me well on how to do it, it's about time to apply it! ;) small steps ahead for the greatness!
